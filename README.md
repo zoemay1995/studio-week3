@@ -9,8 +9,8 @@ So far, we've learned how to set up web pages and embed some pre-existing maps, 
 ## Expected Outputs for this week / what to submit: 
 Add text here about what needs to submitted: files, links to maps, hosted sites, etc. 
 
-### Options for creating interactive choropleths
-All three of the exercises below **require them to create an `index.html` file that they would write from scratch.** Should give them starter code or have them build them from scratch? Might be nice to follow the week 2 example and have a small, 3-page site, composed of a few pages with bare-bones html to start. What do you think?
+### We Need to Pick 3-4 of the options below: 
+All three of the exercises below **require them to create an `index.html` file that they would write from scratch.** Should give them starter code or have them build them from scratch? Might be nice to follow the week 2 example and have a small, 3-page site, composed of a few pages with bare-bones html to start. What do you think? I've also listed alternatives to the numbered exercises. I'm really open to any combination of these. 
 1. Start with [this Mapbox tutorial for creating a style for a choropleth map](https://docs.mapbox.com/help/tutorials/choropleth-studio-gl-pt-1/). Once you've completed that, move on to [this tutorial that will show you how to add interactivity to your map](https://docs.mapbox.com/help/tutorials/choropleth-studio-gl-pt-2/).
 > **Alternatively** there's [this Leaflet tutorial on creating an interactive choropleth map](https://leafletjs.com/examples/choropleth/) that is about the same as the mapbox one above. This same tutorial was [replicated here with a bit more detail](https://github.com/jakobzhao/geog371/tree/master/lectures/lec09) (or so it seems). And there is this [Leaflet tutorial for adding basic geographic features (point, polygon, polyline) to a map](https://github.com/jakobzhao/geog371/tree/master/lectures/lec07), which might be better to start with? 
 2. Next, head on over to [this Mapbox tutorial for analyzing point data](https://docs.mapbox.com/help/tutorials/analysis-with-turf/) and complete it. 
