@@ -19,7 +19,7 @@ As with last week, you will submit a link to your Github repo and the working we
 - If you want to explore Leaflet more, you can follows this [Leaflet tutorial for adding basic geographic features (point, polygon, polyline) to a map](https://github.com/jakobzhao/geog371/tree/master/lectures/lec07). You will need to set up a new `.html` file from scratch.  
 - Alternatively, the [Leaflet website hosts a variety of tutorials](https://leafletjs.com/examples.html). Most of these tutorials assume that you can set up a basic html file, including body, header, and script tags. 
 
-## For those who need a bigger challenge. 
+## For those who need a bigger challenge: 
 After successfully following the instructions above you can take things further... these tutorials are more complex but allow for some really cool interactivity. They both require you to construct complete web pages. 
 - Mapbox has a good tutorial for how to [build a Store Locator](https://docs.mapbox.com/help/tutorials/building-a-store-locator/) that includes some really cool interactivity.
 - Here's a great Mapbox tutorial for how to [show changes over time](https://docs.mapbox.com/help/tutorials/show-changes-over-time/): this tutorial includes a 4MB GeoJSON file that contains 15,273 geocoded motor vehicle collision incidents in NYC. Github pages limits are 1GB, you should be able to host these data and the code in a repo! 
